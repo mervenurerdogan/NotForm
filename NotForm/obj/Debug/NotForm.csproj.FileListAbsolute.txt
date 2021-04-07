@@ -1,0 +1,10 @@
+C:\Users\a68_m\source\repos\NotForm\NotForm\bin\Debug\NotForm.exe.config
+C:\Users\a68_m\source\repos\NotForm\NotForm\bin\Debug\NotForm.exe
+C:\Users\a68_m\source\repos\NotForm\NotForm\bin\Debug\NotForm.pdb
+C:\Users\a68_m\source\repos\NotForm\NotForm\obj\Debug\NotForm.csprojAssemblyReference.cache
+C:\Users\a68_m\source\repos\NotForm\NotForm\obj\Debug\NotForm.Form1.resources
+C:\Users\a68_m\source\repos\NotForm\NotForm\obj\Debug\NotForm.Properties.Resources.resources
+C:\Users\a68_m\source\repos\NotForm\NotForm\obj\Debug\NotForm.csproj.GenerateResource.cache
+C:\Users\a68_m\source\repos\NotForm\NotForm\obj\Debug\NotForm.csproj.CoreCompileInputs.cache
+C:\Users\a68_m\source\repos\NotForm\NotForm\obj\Debug\NotForm.exe
+C:\Users\a68_m\source\repos\NotForm\NotForm\obj\Debug\NotForm.pdb
